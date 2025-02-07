@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JosephNjoroge8/cit4-timetable.git/static/css/main.e640a3e4.css",
-    "main.js": "/JosephNjoroge8/cit4-timetable.git/static/js/main.c359b7ee.js",
-    "static/js/488.23a428c2.chunk.js": "/JosephNjoroge8/cit4-timetable.git/static/js/488.23a428c2.chunk.js",
-    "index.html": "/JosephNjoroge8/cit4-timetable.git/index.html",
-    "main.e640a3e4.css.map": "/JosephNjoroge8/cit4-timetable.git/static/css/main.e640a3e4.css.map",
-    "main.c359b7ee.js.map": "/JosephNjoroge8/cit4-timetable.git/static/js/main.c359b7ee.js.map",
-    "488.23a428c2.chunk.js.map": "/JosephNjoroge8/cit4-timetable.git/static/js/488.23a428c2.chunk.js.map"
+    "main.css": "/cit4-timetable/static/css/main.24d4b70b.css",
+    "main.js": "/cit4-timetable/static/js/main.03b5ce42.js",
+    "static/js/488.23a428c2.chunk.js": "/cit4-timetable/static/js/488.23a428c2.chunk.js",
+    "index.html": "/cit4-timetable/index.html",
+    "main.24d4b70b.css.map": "/cit4-timetable/static/css/main.24d4b70b.css.map",
+    "main.03b5ce42.js.map": "/cit4-timetable/static/js/main.03b5ce42.js.map",
+    "488.23a428c2.chunk.js.map": "/cit4-timetable/static/js/488.23a428c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e640a3e4.css",
-    "static/js/main.c359b7ee.js"
+    "static/css/main.24d4b70b.css",
+    "static/js/main.03b5ce42.js"
   ]
 }
