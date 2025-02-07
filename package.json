@@ -2,7 +2,7 @@
   "name": "cit4-timetable",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/JosephNjoroge8/cit4-timetable.git",
+  "homepage": "https://JosephNjoroge8.github.io/cit4-timetable",
   "dependencies": {
     "@radix-ui/react-icons": "^1.3.0",
     "@radix-ui/react-slot": "^1.0.2",
@@ -12,8 +12,8 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "cra-template": "1.2.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
     "react-scripts": "5.0.1",
     "tailwindcss-animate": "^1.0.7",
     "web-vitals": "^4.2.4"
@@ -23,7 +23,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "npx gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -34,7 +34,7 @@
   },
   "browserslist": {
     "production": [
-      ">0.2%",
+      "last 2 versions",
       "not dead",
       "not op_mini all"
     ],
