@@ -75,7 +75,7 @@ const TimeTable = () => {
         <h3 className="font-semibold mb-2">Room Key:</h3>
         <ul className="space-y-1">
           <li>TB1: Tution Block 1</li>
-          <li>TB5: Tutution Block 5</li>
+          <li>TB5: Tution Block 5</li>
           <li>LAB 1: Laboratory 1</li>
         </ul>
       </div>
