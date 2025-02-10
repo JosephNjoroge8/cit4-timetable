@@ -8,17 +8,17 @@ const TimeTable = () => {
   ];
 
   const schedule = {
-    "Monday": Array(11).fill("-"),
+    "Monday": Array(11).fill("ABA 424"),
     "Tuesday": [
       "CIT 404 (TB1)", "CIT 404 (TB1)", "CIT 404 (TB1)",
       "CIT 410 (TB1)", "CIT 410 (TB1)", "CIT 410 (TB1)",
-      "-", "-", "-", "-", "-"
+      "CIT 416 LAB 1", "CIT 416 LAB 1", "CIT 416 LAB 1",
+      "CIT 416 LAB 1", "CIT 416 LAB 1"
     ],
     "Wednesday": [
       "-", "-", "-",
       "CIT 410 (TB5)", "CIT 410 (TB5)", "CIT 410 (TB5)",
-      "CIT 416 LAB 1", "CIT 416 LAB 1", "CIT 416 LAB 1",
-      "CIT 416 LAB 1", "CIT 416 LAB 1"
+      "-", "-", "-", "-", "-"
     ],
     "Thursday": [
       "CIT 406 (TB1)", "CIT 406 (TB1)", "CIT 406 (TB1)",
@@ -75,7 +75,7 @@ const TimeTable = () => {
         <h3 className="font-semibold mb-2">Room Key:</h3>
         <ul className="space-y-1">
           <li>TB1: Tution Block 1</li>
-          <li>TB5: Tutution Block 5</li>
+          <li>TB5: Tution Block 5</li>
           <li>LAB 1: Laboratory 1</li>
         </ul>
       </div>
