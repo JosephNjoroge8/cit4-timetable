@@ -12,13 +12,13 @@ const TimeTable = () => {
     "Tuesday": [
       "CIT 404 (TB1)", "CIT 404 (TB1)", "CIT 404 (TB1)",
       "CIT 410 (TB1)", "CIT 410 (TB1)", "CIT 410 (TB1)",
-      "-", "-", "-", "-", "-"
+       "CIT 416 LAB 1", "CIT 416 LAB 1", "CIT 416 LAB 1",
+      "CIT 416 LAB 1", "CIT 416 LAB 1"
     ],
     "Wednesday": [
       "-", "-", "-",
       "CIT 410 (TB5)", "CIT 410 (TB5)", "CIT 410 (TB5)",
-      "CIT 416 LAB 1", "CIT 416 LAB 1", "CIT 416 LAB 1",
-      "CIT 416 LAB 1", "CIT 416 LAB 1"
+      "-", "-", "-", "-", "-"
     ],
     "Thursday": [
       "CIT 406 (TB1)", "CIT 406 (TB1)", "CIT 406 (TB1)",
