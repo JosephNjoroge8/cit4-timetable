@@ -8,7 +8,7 @@ const TimeTable = () => {
   ];
 
   const schedule = {
-    "Monday": Array(11).fill("😴"),
+    "Monday": Array(11).fill("🏋️‍♂️🏃‍♂️😴"),
     "Tuesday": [
       "CIT 404 (TB1)", "CIT 404 (TB1)", "CIT 404 (TB1)",
       "CIT 410 (TB1)", "CIT 410 (TB1)", "CIT 410 (TB1)",
@@ -16,8 +16,8 @@ const TimeTable = () => {
       "CIT 416 LAB 1", "CIT 416 LAB 1"
     ],
     "Wednesday": [
-      "-", "-", "-",
-      "CIT 410 (TB5)", "CIT 410 (TB5)", "CIT 410 (TB5)",
+      "🏋️‍♂️🏃‍♂️😴", "🏋️‍♂️🏃‍♂️😴", "🏋️‍♂️🏃‍♂️😴",
+      "🏋️‍♂️🏃‍♂️😴", "🏋️‍♂️🏃‍♂️😴", "🏋️‍♂️🏃‍♂️😴",
       "-", "-", "-", "-", "-"
     ],
     "Thursday": [
