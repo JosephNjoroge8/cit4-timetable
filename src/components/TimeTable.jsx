@@ -10,23 +10,23 @@ const TimeTable = () => {
   const schedule = {
     "Monday": Array(11).fill("🏋️‍♂️🏃‍♂️😴"),
     "Tuesday": [
-      "CIT 404 (TB1)", "CIT 404 (TB1)", "CIT 404 (TB1)",
+      "CIT 418 (TB1)", "CIT 418 (TB1)", "CIT 418 (TB1)",
       "CIT 410 (TB1)", "CIT 410 (TB1)", "CIT 410 (TB1)",
       "CIT 416 LAB 1", "CIT 416 LAB 1", "CIT 416 LAB 1",
       "CIT 416 LAB 1", "CIT 416 LAB 1"
     ],
     "Wednesday": [
-      "🏋️‍♂️🏃‍♂️😴", "🏋️‍♂️🏃‍♂️😴", "🏋️‍♂️🏃‍♂️😴",
+      "CIT 404 (TB1)", "CIT 404 (TB1)", "CIT 404 (TB1)",
       "🏋️‍♂️🏃‍♂️😴", "🏋️‍♂️🏃‍♂️😴", "🏋️‍♂️🏃‍♂️😴",
       "-", "-", "-", "-", "-"
     ],
     "Thursday": [
       "CIT 406 (TB1)", "CIT 406 (TB1)", "CIT 406 (TB1)",
       "CIT 408 (TB1)", "CIT 408 (TB1)", "CIT 408 (TB1)",
-      "ABS 424", "ABS 424", "ABS 424", "ABS 424", "ABS 424"
+      " ", " ", " -", "-", "-"
     ],
     "Friday": [
-      "CIT 418 (TB1)", "CIT 418 (TB1)", "CIT 418 (TB1)",
+      "ABS 424", "ABS 424", "ABS 424",
       "CIT 414 (TB1)", "CIT 414 (TB1)", "CIT 414 (TB1)",
       "CIT 414 (TB1)", "-", "-", "-", "-"
     ]
@@ -87,7 +87,7 @@ const TimeTable = () => {
           <li>CIT 404: Cryptography and Information Security - DR SAMUEL OONGE - 0714 891 743</li>
           <li>CIT 406: Social And Professional Issues In IT - DR ERICK OTEYO - 0716 555551</li>
           <li>CIT 408: IT and Development - VIOLET SETTIM - 0722 242 818</li>
-          <li>CIT 410: Mobile Technology Applications and M-Commerce - DR SAMUEL OONGE - 0714 891 743</li>
+          <li>CIT 410: Mobile Technology Applications and M-Commerce -  Mr. Moses Wainaina </li>
           <li>CIT 414: Cloud Computing and Emerging Applications - GEORGE OMUONO - 0721 240 172</li>
           <li>CIT 416: Network Security - JAMES CHAMWAMA - 0722 399 874</li>
           <li>CIT 418: Authentication Protocols and Biometrics - DR SAMUEL OONGE - 0714 891 743</li>
