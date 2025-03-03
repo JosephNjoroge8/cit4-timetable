@@ -11,9 +11,9 @@ const TimeTable = () => {
     "Monday": Array(11).fill("🏋️‍♂️🏃‍♂️😴"),
     "Tuesday": [
       "CIT 418 (TB1)", "CIT 418 (TB1)", "CIT 418 (TB1)",
-      "CIT 410 (TB1)", "CIT 410 (TB1)", "CIT 410 (TB1)",
+      " -", "CIT 410 (TB1)", "CIT 410 (TB1)",
       "CIT 416 LAB 1", "CIT 416 LAB 1", "CIT 416 LAB 1",
-      "CIT 416 LAB 1", "CIT 416 LAB 1"
+      " -", "-"
     ],
     "Wednesday": [
       "CIT 404 (TB1)", "CIT 404 (TB1)", "CIT 404 (TB1)",
@@ -21,14 +21,14 @@ const TimeTable = () => {
       "-", "-", "-", "-", "-"
     ],
     "Thursday": [
-      "CIT 406 (TB1)", "CIT 406 (TB1)", "CIT 406 (TB1)",
-      "CIT 408 (TB1)", "CIT 408 (TB1)", "CIT 408 (TB1)",
-      " ", " ", " -", "-", "-"
+      " -", "CIT 406 (TB1)", "CIT 406 (TB1)",
+      "-", "CIT 408 (TB1)", "CIT 408 (TB1)",
+      " ", "CIT 414 (TB1)", "CIT 414 (TB1)", "CIT 414 (TB1)",
     ],
     "Friday": [
-      "ABS 424", "ABS 424", "ABS 424",
-      "CIT 414 (TB1)", "CIT 414 (TB1)", "CIT 414 (TB1)",
-      "CIT 414 (TB1)", "-", "-", "-", "-"
+      "", "ABS 424", "ABS 424", "ABS 424",
+      " ", " ", " ",
+      " ", "-", "-", "-", "-"
     ]
   };
 
